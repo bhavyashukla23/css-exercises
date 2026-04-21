@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+.para {
+  background-color: pink;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.div-1 {
+  color: rgb(64, 64, 217);
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#para-1 {
+  font-size: 32px;
+  background-color: pink;
+}
+
+.div-2{
+    background-color: aquamarine;
+    font-weight: bolder;
+    font-size: large;
+}
+
+#para-2 {
+    background-color: pink;
+}

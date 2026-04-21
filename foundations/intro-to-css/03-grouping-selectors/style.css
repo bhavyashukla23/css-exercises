@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+#buttons{
+    display: flex;
+}
+
+.button-1{
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+}
+
+.button-2{
+    background-color: yellow;
+}
